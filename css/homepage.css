@@ -34,7 +34,7 @@ input[type="text"]{
     background-image: url(../images/search_icon.png);
     background-size: 15px;
     background-position: left;
-    background-position-x: 10px;
+    background-position-x: 275px;
     background-repeat: no-repeat;
 }
 input[type="text"]:hover{
